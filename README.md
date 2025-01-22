@@ -1,2 +1,2 @@
 # Projekt-demonstracyjny-GitHub
-# Dokonywanie zmiany w pliku
+# Dokonywanie zmiany w pliku projekt
